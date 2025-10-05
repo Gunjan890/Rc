@@ -15,7 +15,7 @@ API_ID = 16016703
 API_HASH = "2e661b4ea5fa6d75640f12ea09f1c3a9"
 BOT_TOKEN = "xxx"
 MONGO_URI = "xxx"
-ADMIN_ID = 7235663635  # <--- IMPORTANT: Replace 0 with your Telegram User ID
+ADMIN_ID = 7599385056  # <--- IMPORTANT: Replace 0 with your Telegram User ID
 
 # Constants
 INITIAL_CREDITS = 5
