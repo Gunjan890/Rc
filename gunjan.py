@@ -1,4 +1,3 @@
-MAHESH MS:
 import logging
 import html
 import requests
@@ -25,22 +24,22 @@ logging.basicConfig(
 logger = logging.getLogger(name)
 
 # Configuration
-BOT_TOKEN = '8389004361:AAHSN0cDWQayXuzwvC1eIBIHRPXoKQd3-W8'
+BOT_TOKEN = '7556128194:AAGFCkn4ubagA4vFVkNehOd1fG6CBwtRBcw-W8'
 # Updated API URLs with tokens
 PHONE_API_URL = 'https://api.shahad.top/number.php?mobile={number}'
 VEHICLE_API_URL = 'https://rc-info-ng.vercel.app/?rc={number}'
 ADHAAR_API_URL = 'AADHAR_API'
 LOG_FILE = 'logs.json'
-TAG = "api by:- its_mahesh_ms"
-BOT_NAME = "R4MODS OSINT"
+TAG = "api by:- Gunjan singh"
+BOT_NAME = "Gunjan"
 
 # Admin user IDs (replace with actual admin IDs)
-ADMIN_IDS = 6483430456
+ADMIN_IDS = 7599385056
 
 # Channels to check for subscription
 CHANNELS = [
-    {'name': 'Channel 1', 'url': 'https://t.me/+MELdXapWYl1lNzE1', 'id': -1002887659915},
-    {'name': 'Channel 2', 'url': 'https://t.me/+yHC0UZHd89tlMGNl', 'id': -1003083648165},
+    {'name': 'Channel 1', 'url': 'https://t.me/+zIq1NFrdwxFkMTQ1', 'id': -1003100607330},
+    {'name': 'Channel 2', 'url': 'https://t.me/+zIq1NFrdwxFkMTQ1', 'id': -1003100607330},
 ]
 
 def load_logs():
